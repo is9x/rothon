@@ -26,10 +26,10 @@ Unlike the deprecated Friends API, this method provides the real date you added 
 ## Usage
 
 ### Run normally:
-`python real.py`
+`python main.py`
 
 ### Run with debug logging:
-`python real.py -debug`
+`python main.py -debug`
 
 ### Optional environment variable:
 `set ROBLOSECURITY=_|WARNING:...`
