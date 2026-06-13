@@ -50,4 +50,4 @@ Unlike the deprecated Friends API, this method provides the real date you added 
 - Timestamp fetching is lightweight and fixed at 0.05s per friend  
 
 ## License
-GNU General Public Use License
+GNU General Public License
